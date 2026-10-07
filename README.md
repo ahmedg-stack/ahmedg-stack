@@ -13,7 +13,7 @@ First-year engineering student at **Texas A&M University** (intended major: Comp
 | [**AGV Machine Control**](https://github.com/ahmedg-stack/agv-machine-control) | Color-sorting automated guided vehicle. I was the Control Logic Engineer: pseudocode, flowchart, and program logic. |
 | [**CAD & Mechanical**](https://github.com/ahmedg-stack/cad-and-mechanical) | Fusion 360 parts, drawings, and a 4-cam automata assembly; popsicle-stick truss analyzed by hand and in MDSolids. |
 
-**In progress:** [Orange Pi router](https://github.com/ahmedg-stack/orange-pi-router) · [Pi-hole network filter](https://github.com/ahmedg-stack/pihole-network-filter)
+**In progress:** [Pi-hole network filter](https://github.com/ahmedg-stack/pihole-network-filter) (Raspberry Pi 3 B, running) · **Planned:** [Orange Pi router](https://github.com/ahmedg-stack/orange-pi-router)
 
 ## Skills
 
