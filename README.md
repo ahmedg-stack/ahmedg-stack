@@ -2,7 +2,7 @@
 
 First-year engineering student at **Texas A&M University** (intended major: Computer Engineering), focused on **embedded systems, digital logic, and hardware**. My projects so far: microcontroller and sensor integration, gate-level logic design from truth table to soldered board, and CAD for the parts around them.
 
-🌐 [Portfolio](https://ahmedg-stack.github.io) · 💼 [LinkedIn](https://www.linkedin.com/in/ahmedegencer/) · ✉️ [ahmedg@tamu.edu](mailto:ahmedg@tamu.edu)
+🌐 [Portfolio](https://ahmedg-stack.github.io) · 📄 [Resume](https://ahmedg-stack.github.io/resume.pdf) · 💼 [LinkedIn](https://www.linkedin.com/in/ahmedegencer/) · ✉️ [ahmedg@tamu.edu](mailto:ahmedg@tamu.edu)
 
 ## Featured projects
 
